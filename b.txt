@@ -3,3 +3,4 @@
 测试fetch操作！
 测试pull操作！
 修改同一行，出现冲突，解决冲突！By command
+修改同一行，出现冲突，解决冲突！By Browser
